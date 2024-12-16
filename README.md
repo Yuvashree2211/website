@@ -468,6 +468,15 @@ contact.html
 # OUTPUT:
 ![Screenshot (31)](https://github.com/user-attachments/assets/e7b4733f-fb1e-4e87-9c48-867f0770a061)
 ![Screenshot (32)](https://github.com/user-attachments/assets/84f7184f-db4d-4d35-ac7b-b08e1245ffa6)
+![Screenshot (33)](https://github.com/user-attachments/assets/c3e96fa8-f4e0-4d96-a0d2-213547c9ecdc)
+![Screenshot (34)](https://github.com/user-attachments/assets/a52fa921-28e1-483d-82db-1f54ecb41ce2)
+![Screenshot (35)](https://github.com/user-attachments/assets/1ae4dee2-a9fb-45bd-b86c-61529c655f93)
+![Screenshot (36)](https://github.com/user-attachments/assets/c2243b01-5dfd-42a5-8ba0-6c28c6c1d71e)
+
+
+
+
+
 
 
 
